@@ -6,6 +6,9 @@
     justify-content: start;
     align-items: center;
 }
+.mine{
+    background-color: #fff;
+}
 
 .menu-bars{
     margin-left: 2rem;
